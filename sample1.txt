@@ -2,4 +2,6 @@ Hello, this is a sample text file.
 
 I am a software developer.
 
+I am a genius.
+
 Bye!
